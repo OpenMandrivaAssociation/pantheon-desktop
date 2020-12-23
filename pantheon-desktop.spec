@@ -25,6 +25,9 @@ Recommends:     elementary-icon-theme
 Recommends:     elementary-theme
 Recommends:     elementary-wallpapers
 
+Provides: task-elementary
+Provides: task-pantheon
+
 
 BuildArch:      noarch
 
